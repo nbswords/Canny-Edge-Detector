@@ -8,6 +8,6 @@ Implementation of Canny Edge Detector in Python3 **with and without OpenCV**.
 4. Thresholding edges
 5. Hysteresis
 
-# Demo
+# 
 
 ![](./demo.jpg)
