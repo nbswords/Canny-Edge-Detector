@@ -7,3 +7,7 @@ Implementation of Canny Edge Detector in Python3 **with and without OpenCV**.
 3. Non-Maxuimun Suppression
 4. Thresholding edges
 5. Hysteresis
+
+# Demo
+
+![](./demo.jpg)
